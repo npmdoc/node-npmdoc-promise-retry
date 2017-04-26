@@ -1,6 +1,6 @@
 # npmdoc-promise-retry
 
-#### api documentation for  [promise-retry (v1.1.1)](https://github.com/IndigoUnited/node-promise-retry#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-promise-retry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-promise-retry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-promise-retry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-promise-retry)
+#### basic api documentation for  [promise-retry (v1.1.1)](https://github.com/IndigoUnited/node-promise-retry#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-promise-retry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-promise-retry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-promise-retry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-promise-retry)
 
 #### Retries a function that returns a promise, leveraging the power of the retry module.
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "mocha --bail -t 10000"
     },
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "bin": {}
 }
 ```
 
